@@ -22,9 +22,9 @@ Requirements
 
 Installation
 
-1. Clone the repository: git clone https://github.com/Myhfuz88Sk/ASL_Detector/
+1. Clone the repository: git clone https://github.com/Myhfuz88Sk/ASL_Detector
 2. Install dependencies: pip install -r requirements.txt
-3. Run the application: python asl_detector.py
+3. Run the application: python app.py
 
 Usage
 
@@ -40,12 +40,4 @@ Contributions are welcome! If you'd like to contribute to this project, please:
 2. Make your changes and commit them.
 3. Submit a pull request.
 
-License
 
-This project is licensed under the LICENSE.
-
-Acknowledgments
-
-- [List any acknowledgments or references]
-
-I hope this sample README file helps you get started with your ASL detector project!
