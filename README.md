@@ -32,10 +32,6 @@ Usage
 2. Perform ASL gestures in front of the camera.
 3. The application will recognize and display the corresponding ASL sign.
 
-Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please:
-
 1. Fork the repository.
 2. Make your changes and commit them.
 3. Submit a pull request.
